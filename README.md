@@ -87,4 +87,4 @@ or you can also reset all which support multiuploaded files.
 You can create new pull requests <a href="https://github.com/fauzan121002/freeviewjs/pulls">here</a>
 
 ## License
-This javascript library is published under <a href="https://github.com/fauzan121002/freeviewjs/LICENSE">MIT License</a>
+This javascript library is published under <a href="https://github.com/fauzan121002/freeviewjs/blob/master/LICENSE">MIT License</a>
