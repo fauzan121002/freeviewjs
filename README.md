@@ -38,7 +38,7 @@
 * [License](#license)
 
 ## Usage
-You can see the example usage <a href="https://github.com/fauzan121002/freeviewjs/examples/index.html">here</a>
+You can see the example usage <a href="https://github.com/fauzan121002/freeviewjs/blob/master/example/index.html">here</a>
 
 ### How to use
 You can import the script inside the body tag.
@@ -52,7 +52,7 @@ You can import the script inside the body tag.
 </head>
 <body>
 
-    <script src="https://github.com/fauzan121002/freeviewjs/freeview.js"></script>
+    <script src="https://github.com/fauzan121002/freeviewjs/blob/master/freeview.js"></script>
 </body>
 </html>
 ```
