@@ -1,4 +1,4 @@
-<center><img src="logo/brand.png"></center>
+<img align="center" src="logo/brand.png">
 
 # Freeview.js is A Javascript Library to Preview Images
 --------------------------------------------
