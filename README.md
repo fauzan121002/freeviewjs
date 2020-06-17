@@ -67,6 +67,8 @@ The default function is Asynchronous so you need to specify that with async awai
 * Second Parameter : The input type file element.
 * Third Parameter : The input type file files index were uploaded.
 
+#### Note : Parameter 0 and 1 refer to ID tag.
+
 ### Synchronous Preview
 If you do not need to use asynchronous you can also use synchronous function
 ```js
