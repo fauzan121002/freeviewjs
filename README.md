@@ -52,7 +52,7 @@ You can import the script inside the body tag.
 </head>
 <body>
 
-    <script src="https://github.com/fauzan121002/freeviewjs/blob/master/freeview.js"></script>
+    <script src="https://raw.githubusercontent.com/fauzan121002/freeviewjs/master/freeview.js"></script>
 </body>
 </html>
 ```
