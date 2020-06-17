@@ -18,7 +18,7 @@
 
 <p align="center">
  <a href="https://github.com/fauzan121002/freeviewjs/issues">
-  <img src="https://img.shields.io/github/issues/fauzan121002/freeview?style=flat-square" alt="Open Collective">
+  <img src="https://img.shields.io/github/issues/fauzan121002/freeviewjs?style=flat-square" alt="Open Collective">
  </a>
 
  <a href="https://github.com/fauzan121002/freeviewjs">
