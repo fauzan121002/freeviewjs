@@ -3,7 +3,7 @@
 </p>
 
 
-# Freeview.js is A Javascript Library to Preview Images
+# Freeview.js is A Javascript Library to Preview Image
 --------------------------------------------
 
 <p align="center">
