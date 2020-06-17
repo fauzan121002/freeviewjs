@@ -2,8 +2,9 @@
  <img align="center" src="logo/brand.png">
 </p>
 
-
-# Freeview.js is A Javascript Library to Preview Image
+<p align="center">
+ # Freeview.js is A Javascript Library to Preview Image
+</p>
 --------------------------------------------
 
 <p align="center">
