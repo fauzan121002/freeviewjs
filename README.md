@@ -65,7 +65,7 @@ The default function is Asynchronous so you need to specify that with async awai
 ##### Parameters :
 * First Parameter : The image element.
 * Second Parameter : The input type file element.
-* Third Parameter : The input type file files were uploaded.
+* Third Parameter : The input type file files index were uploaded.
 
 ### Synchronous Preview
 If you do not need to use asynchronous you can also use synchronous function
